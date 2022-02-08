@@ -1,0 +1,2 @@
+add = ["бестселлер", "снова в наличии", "лидер продаж", "bestseller", "back in stock", "restock", "icon", "in stock"]
+delete = ["конкурс", "розыгрыш", "лайктайм", "акция", "сейл", "скидка", "sale", "giveaway", 'discount']
